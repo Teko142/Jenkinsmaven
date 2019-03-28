@@ -1,4 +1,4 @@
-node{
+RootFS{
 stage('SCM Checkout'){
 git 'https://github.com/sammyrolemaven/Jenkinsmaven'
 }
